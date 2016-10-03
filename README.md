@@ -1,4 +1,4 @@
-# Netshoes Cart Test
+#Cart Test
 
 ## Run Project
 This project requires [Node.js](https://nodejs.org/) to run.
